@@ -1,0 +1,13 @@
+{
+    "abtastrate": 0.123,
+    "alpha": 25,
+    "sensor": "druck",
+    "weiteres": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ]
+}
